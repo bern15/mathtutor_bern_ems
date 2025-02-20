@@ -1,16 +1,31 @@
 # mathtutor_bern_ems
+bern_ems because we make this as pair, She has no github acc so I just put it here lol
 
-A new Flutter project.
+# Math Tutor - Flutter Application
 
-## Getting Started
+A **preliminary mobile development application** that helps users practice **arithmetic** and **logic** in an engaging and fun way. The app also features a **logout functionality** and is designed with a dark theme and vibrant colors for a visually striking experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Mode Selection:**
+  - **Arithmetic Mode:** Practice basic arithmetic operations like addition, subtraction, multiplication, and division.
+  - **Logic Mode:** Engage in logical reasoning exercises.
+  
+- **User-Friendly UI:** iOS-style Cupertino design with dark-themed backgrounds and vibrant buttons.
+- **Logout Functionality:** Easily return to the login screen.
+- **Custom Branding:** Personalized text and theme design by **Bern & Ems**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots (try the app, I'm not in my mood to put it here lol 😁)
+
+---
+
+## Installation and Usage
+
+### 1. Clone the Repository
+   ```bash
+   git clone https://github.com/bern15/mathtutor_bern_ems.git
+
